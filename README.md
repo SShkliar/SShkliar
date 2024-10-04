@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @SShkliar
+- 👀 I’m interested in video game development
+- 🌱 I’m currently learning Luau, Python
